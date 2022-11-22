@@ -18,7 +18,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://netlify.app/"
+            href="https://netlifhttps://delightful-pithivier-31e5d9.netlify.appy.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
